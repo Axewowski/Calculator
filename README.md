@@ -21,3 +21,5 @@ A simple calculator made in Python using `tkinter`. Features include standard, s
 - `re` (regex validation)
 
 ## 📷 Screenshots
+![Main Window](Screenshot1.png)
+![Main Window](Screenshot2.png)
